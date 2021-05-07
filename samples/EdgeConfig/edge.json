@@ -137,7 +137,7 @@
     "specs": [
       {
         "name": "Petstore-v2",
-        "file": "./resources/specs/petstore-v2.yaml"
+        "file": "samples/EdgeConfig/resources/specs/petstore-v2.yaml"
       }
     ],
     "maskconfigs": [
